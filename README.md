@@ -1,2 +1,2 @@
 # 5lab
-Plugin for inputing common unicode symbols with ease.
+Plugin for inputting common unicode symbols with ease.
